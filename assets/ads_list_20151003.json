@@ -1,0 +1,58 @@
+{"version":"20151003",
+"ads":[{
+    "sn":"addf09252015000001.jpg",
+    "qrsn":"qrdf09252015000001.jpg",
+    "crc":"",
+    "adurl":"",
+    "qrurl":"",
+    "animation":1,
+    "qrposx":20,
+    "qrposy":20,
+    "duration":10,
+    "count":0
+},{
+    "sn":"addf09252015000002.mp4",
+    "qrsn":"qrdf09252015000001.jpg",
+    "crc":"",
+    "adurl":"",
+    "qrurl":"",
+    "animation":0,
+    "qrposx":460,
+    "qrposy":200,
+    "duration":0,
+    "count":0
+},{
+    "sn":"addf09252015000003.jpg",
+    "qrsn":"qrdf09252015000001.jpg",
+    "crc":"",
+    "adurl":"",
+    "qrurl":"",
+    "animation":2,
+    "qrposx":300,
+    "qrposy":300,
+    "duration":10,
+    "count":0
+},{
+    "sn":"ad10032015000002.jpg",
+    "qrsn":"qr10032015000002.jpg",
+    "crc":"",
+    "adurl":"",
+    "qrurl":"",
+    "animation":3,
+    "qrposx":300,
+    "qrposy":150,
+    "duration":10,
+    "count":0
+},{
+    "sn":"ad10032015000001.mp4",
+    "qrsn":"qr10032015000001.jpg",
+    "crc":"",
+    "adurl":"",
+    "qrurl":"",
+    "animation":0,
+    "qrposx":200,
+    "qrposy":100,
+    "duration":0,
+    "count":0
+}
+]}
